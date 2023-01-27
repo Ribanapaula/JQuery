@@ -1,7 +1,5 @@
 # JQuery
 
-# JQuery
-
 "Write less, do more"
 
 - Biblioteca do JavaScript
